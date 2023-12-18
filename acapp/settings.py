@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-spbar$ajbiqs&=-3)5(_$4)f_prk=xu^ad0bifk^shp1vtt650
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["106.14.59.54"]
 
 
 # Application definition
